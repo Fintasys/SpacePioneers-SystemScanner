@@ -1,0 +1,30 @@
+c:\users\stefan\documents\visual studio 2012\Projects\SpacePioneersBot\SpacePioneersBot\obj\Debug\SpacePioneersBot.csproj.ResolveComReference.cache
+c:\users\stefan\documents\visual studio 2012\Projects\SpacePioneersBot\SpacePioneersBot\bin\Debug\SpacePioneersBot.exe
+c:\users\stefan\documents\visual studio 2012\Projects\SpacePioneersBot\SpacePioneersBot\bin\Debug\SpacePioneersBot.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\SpacePioneersBot\SpacePioneersBot\obj\Debug\SpacePioneersBot.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2012\Projects\SpacePioneersBot\SpacePioneersBot\obj\Debug\SpacePioneersBot.Form1.resources
+c:\users\stefan\documents\visual studio 2012\Projects\SpacePioneersBot\SpacePioneersBot\obj\Debug\SpacePioneersBot.Properties.Resources.resources
+c:\users\stefan\documents\visual studio 2012\Projects\SpacePioneersBot\SpacePioneersBot\obj\Debug\SpacePioneersBot.csproj.GenerateResource.Cache
+c:\users\stefan\documents\visual studio 2012\Projects\SpacePioneersBot\SpacePioneersBot\obj\Debug\SpacePioneersBot.exe
+c:\users\stefan\documents\visual studio 2012\Projects\SpacePioneersBot\SpacePioneersBot\obj\Debug\SpacePioneersBot.pdb
+N:\Dropbox\Projekte\SpacePioneersBot\SpacePioneersBot\obj\Debug\SpacePioneersBot.csproj.ResolveComReference.cache
+N:\Dropbox\Projekte\SpacePioneersBot\SpacePioneersBot\obj\Debug\SpacePioneersBot.exe
+N:\Dropbox\Projekte\SpacePioneersBot\SpacePioneersBot\obj\Debug\SpacePioneersBot.pdb
+N:\Dropbox\Projekte\SpacePioneersBot\SpacePioneersBot\bin\Debug\SpacePioneersBot.exe
+N:\Dropbox\Projekte\SpacePioneersBot\SpacePioneersBot\bin\Debug\SpacePioneersBot.pdb
+N:\Dropbox\Projekte\SpacePioneersBot\SpacePioneersBot\obj\Debug\SpacePioneersBot.csprojResolveAssemblyReference.cache
+N:\Dropbox\Projekte\SpacePioneersBot\SpacePioneersBot\obj\Debug\SpacePioneersBot.Form1.resources
+N:\Dropbox\Projekte\SpacePioneersBot\SpacePioneersBot\obj\Debug\SpacePioneersBot.Properties.Resources.resources
+N:\Dropbox\Projekte\SpacePioneersBot\SpacePioneersBot\obj\Debug\SpacePioneersBot.csproj.GenerateResource.Cache
+D:\Dropbox\Projekte\SpacePioneersBot\SpacePioneersBot\obj\Debug\SpacePioneersBot.csproj.ResolveComReference.cache
+D:\Dropbox\Projekte\SpacePioneersBot\SpacePioneersBot\obj\Debug\SpacePioneersBot.exe
+D:\Dropbox\Projekte\SpacePioneersBot\SpacePioneersBot\obj\Debug\SpacePioneersBot.pdb
+D:\Dropbox\Projekte\SpacePioneersBot\SpacePioneersBot\bin\Debug\SpacePioneersBot.exe
+D:\Dropbox\Projekte\SpacePioneersBot\SpacePioneersBot\bin\Debug\SpacePioneersBot.pdb
+D:\Dropbox\Projekte\SpacePioneersBot\SpacePioneersBot\obj\Debug\SpacePioneersBot.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projekte\SpacePioneersBot\SpacePioneersBot\obj\Debug\SpacePioneersBot.Form1.resources
+D:\Dropbox\Projekte\SpacePioneersBot\SpacePioneersBot\obj\Debug\SpacePioneersBot.Properties.Resources.resources
+D:\Dropbox\Projekte\SpacePioneersBot\SpacePioneersBot\obj\Debug\SpacePioneersBot.csproj.GenerateResource.Cache
+N:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersBot\obj\Debug\SpacePioneersBot.csproj.ResolveComReference.cache
+N:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersBot\obj\Debug\SpacePioneersBot.exe
+N:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersBot\obj\Debug\SpacePioneersBot.pdb

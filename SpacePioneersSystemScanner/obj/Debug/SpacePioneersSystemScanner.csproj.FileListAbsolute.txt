@@ -1,0 +1,35 @@
+N:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersBot\obj\Debug\SpacePioneersSystemScanner.csproj.ResolveComReference.cache
+N:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersBot\obj\Debug\SpacePioneersBot.exe
+N:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersBot\obj\Debug\SpacePioneersBot.pdb
+N:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersSystemScanner\obj\Debug\SpacePioneersSystemScanner.csproj.ResolveComReference.cache
+N:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersSystemScanner\obj\Debug\SpacePioneersSystemScanner.csprojResolveAssemblyReference.cache
+N:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersSystemScanner\obj\Debug\SpacePioneersBot.Form1.resources
+N:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersSystemScanner\obj\Debug\SpacePioneersSystemScanner.csproj.GenerateResource.Cache
+N:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersSystemScanner\bin\Debug\SpacePioneersSystemScanner.exe
+N:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersSystemScanner\bin\Debug\SpacePioneersSystemScanner.pdb
+N:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersSystemScanner\obj\Debug\SpacePioneersSystemScanner.Properties.Resources.resources
+N:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersSystemScanner\obj\Debug\SpacePioneersSystemScanner.exe
+N:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersSystemScanner\obj\Debug\SpacePioneersSystemScanner.pdb
+D:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersSystemScanner\obj\Debug\SpacePioneersSystemScanner.csproj.ResolveComReference.cache
+D:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersSystemScanner\obj\Debug\SpacePioneersSystemScanner.exe
+D:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersSystemScanner\obj\Debug\SpacePioneersSystemScanner.pdb
+D:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersSystemScanner\bin\Debug\SpacePioneersSystemScanner.exe
+D:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersSystemScanner\bin\Debug\SpacePioneersSystemScanner.pdb
+D:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersSystemScanner\obj\Debug\SpacePioneersSystemScanner.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersSystemScanner\obj\Debug\SpacePioneersBot.Form1.resources
+D:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersSystemScanner\obj\Debug\SpacePioneersSystemScanner.Properties.Resources.resources
+D:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersSystemScanner\obj\Debug\SpacePioneersSystemScanner.csproj.GenerateResource.Cache
+N:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersSystemScanner\bin\Debug\SpacePioneersSystemScanner.exe.config
+D:\Dropbox\Projekte\SpacePioneersSystemScsanner\SpacePioneersSystemScanner\bin\Debug\SpacePioneersSystemScanner.exe.config
+D:\Dropbox\Projekte\SpacePioneersSystemScsanner - Kopie (2)\SpacePioneersSystemScanner\bin\Debug\SpacePioneersSystemScanner.exe.config
+D:\Dropbox\Projekte\SpacePioneersSystemScsanner - Kopie (2)\SpacePioneersSystemScanner\obj\Debug\SpacePioneersSystemScanner.csproj.ResolveComReference.cache
+D:\Dropbox\Projekte\SpacePioneersSystemScsanner - Kopie (2)\SpacePioneersSystemScanner\obj\Debug\SpacePioneersSystemScanner.exe
+D:\Dropbox\Projekte\SpacePioneersSystemScsanner - Kopie (2)\SpacePioneersSystemScanner\obj\Debug\SpacePioneersSystemScanner.pdb
+D:\Dropbox\Projekte\SpacePioneersSystemScsanner - Kopie (2)\SpacePioneersSystemScanner\bin\Debug\SpacePioneersSystemScanner.exe
+D:\Dropbox\Projekte\SpacePioneersSystemScsanner - Kopie (2)\SpacePioneersSystemScanner\bin\Debug\SpacePioneersSystemScanner.pdb
+D:\Dropbox\Projekte\SpacePioneersSystemScsanner - Kopie (2)\SpacePioneersSystemScanner\obj\Debug\SpacePioneersBot.Form1.resources
+D:\Dropbox\Projekte\SpacePioneersSystemScsanner - Kopie (2)\SpacePioneersSystemScanner\obj\Debug\SpacePioneersSystemScanner.Properties.Resources.resources
+D:\Dropbox\Projekte\SpacePioneersSystemScsanner - Kopie (2)\SpacePioneersSystemScanner\obj\Debug\SpacePioneersSystemScanner.csproj.GenerateResource.Cache
+D:\Dropbox\Projekte\SpacePioneersSystemScsanner - Kopie (2)\SpacePioneersSystemScanner\bin\Debug\System.Json.dll
+D:\Dropbox\Projekte\SpacePioneersSystemScsanner - Kopie (2)\SpacePioneersSystemScanner\bin\Debug\System.Json.xml
+D:\Dropbox\Projekte\SpacePioneersSystemScsanner - Kopie (2)\SpacePioneersSystemScanner\obj\Debug\SpacePioneersSystemScanner.csprojResolveAssemblyReference.cache
